@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img  src="./fellipegeiger/public_html/logo_fg.png" width="125" height="35">
+  <img  src="./fellipegeiger/public_html/logo_fg.png" width="200" height="50">
 </h1>
 
 <h1>
